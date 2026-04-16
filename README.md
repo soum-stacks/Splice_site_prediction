@@ -3,7 +3,8 @@
 **Done by Soumi Sharma and Atrayee Samanta**
 
 ## Overview
-This repository contains our course project based on the **Borzoi** deep learning architecture for RNA expression and splicing prediction. The goal of this project was to read and synthesize the original Borzoi paper, and subsequently design our own custom deep learning model inspired by its methodology. 
+This repository contains our course project based on the **[Borzoi](https://www.nature.com/articles/s41588-024-02053-6)** deep learning architecture for RNA expression and splicing prediction. The goal of this project was to read and synthesize the original Borzoi paper, and subsequently design our own custom deep learning model inspired by its methodology. 
+
 
 Our project focuses specifically on predicting RNA splice sites. We built a 3-layer Convolutional Neural Network (CNN) and performed downstream interpretability analyses—specifically **In Silico Mutagenesis (ISM)** and **Variant Effect Prediction (VEP)**—mirroring the analyses shown in Figures 3-5 of the Borzoi paper.
 
