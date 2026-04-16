@@ -1,6 +1,6 @@
 # Borzoi-Inspired Splice Site Prediction 
 
-##Done by Soumi Sharma and Atrayee Samanta
+**Done by Soumi Sharma and Atrayee Samanta**
 
 ## Overview
 This repository contains our course project based on the **Borzoi** deep learning architecture for RNA expression and splicing prediction. The goal of this project was to read and synthesize the original Borzoi paper, and subsequently design our own custom deep learning model inspired by its methodology. 
